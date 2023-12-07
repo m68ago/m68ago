@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Luca.
+
+📚 Currently studying at the University of Trento
 
 <!--
 **m68ago/m68ago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
